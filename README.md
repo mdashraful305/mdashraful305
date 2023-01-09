@@ -1,12 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
  
-### <div >I'm Ashraf, a front end developer 👨‍💻 working remotely since 2020🚀</div>  
+### <div >I'm Ashraf, a web developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
 - 🔭 I’m currently working on [i2 technologies Limited](http://i2technologies.net/)  
   
 
-- 🌱 I’m currently learning PHP   
+- 🌱 I’m currently learning Laravel and Codeigniter   
   
 
 <br/>  
