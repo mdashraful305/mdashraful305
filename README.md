@@ -20,17 +20,17 @@
 
 ## Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdashraful305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashraful305" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16130295/md-ashraful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16130295/md-ashraful-islam" height="30" width="40" /></a>
 </p>
 
 <br/>  
 
 ## Coding  
 <p align="left">
-<a href="https://www.codechef.com/users/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ashraful305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashraful305" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashraful305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashraful305" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ashraful305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashraful305" height="30" width="40" /></a>
 </p>
 
 <br/>
