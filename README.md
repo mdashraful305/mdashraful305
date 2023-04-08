@@ -1,13 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
  
-### <div >I'm Ashraf, a web developer 👨‍💻 working remotely since 2021🚀</div>  
+### <div >I'm Ashraf, a web developer ,working remotely since 2021</div>  
   
+Hello! My name is Mohammad Ashraful Islam, and I'm a skilled web developer with experience in PHP, MySQL, and front-end development. I have been working at i2 Technologies Limited. for nearly two years now, and during my time here, I've tackled numerous challenges and solved many complex problems.
 
-- 🔭 I’m currently working on [i2 technologies Limited](http://i2technologies.net/)  
-  
+I am passionate about coding and enjoy using my skills to create user-friendly websites and web applications that enhance the user experience. My expertise in PHP has allowed me to create robust and scalable solutions for our clients, while my knowledge of front-end development has helped me to craft visually appealing designs that are both functional and aesthetically pleasing.
 
-- 🌱 I’m currently learning Laravel and Codeigniter   
-  
+In addition to my work at i2 Technologies Limited, I have participated in online coding challenges and competitive programming contests. Through these experiences, I have honed my problem-solving skills and gained valuable experience developing efficient algorithms and code.
+
+Overall, I'm a dedicated and passionate developer with a strong work ethic and a desire to learn and grow in my field. I'm always up for a new challenge and am excited to see where my skills and experience take me in the future. 
 
 <br/>  
 
