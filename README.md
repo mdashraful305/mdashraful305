@@ -39,6 +39,6 @@ Overall, I'm a dedicated and passionate developer with a strong work ethic and a
 
 ## Github Stats  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dev-ashrafbd&left_color=black&right_color=blue)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashrafbd&include_all_commits=true&show_icons=true&count_private=true)
 
