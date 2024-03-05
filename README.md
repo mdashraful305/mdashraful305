@@ -76,8 +76,15 @@ Overall, I'm a dedicated and passionate developer with a strong work ethic and a
 </div>
 
 ## Contributions 
-
-<img src="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg" alt="Snake animation" />
  
-
+<picture> 
+  <source
+    media="(prefers-color-scheme: light)"
+   srcset="(https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg"
+  />
+</picture>
 
