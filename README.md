@@ -80,10 +80,10 @@ Overall, I'm a dedicated and passionate developer with a strong work ethic and a
 <picture> 
   <source
     media="(prefers-color-scheme: light)"
-   srcset="(https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg"
+   srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/snake.svg"
   />
 </picture>
