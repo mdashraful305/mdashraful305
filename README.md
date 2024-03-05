@@ -17,7 +17,7 @@
   
 ## More About me
  
-Hello! My name is Mohammad Ashraful Islam, and I'm a skilled web developer with experience in PHP, MySQL, and front-end development. I have been working at i2 Technologies Limited. for nearly two years now, and during my time here, I've tackled numerous challenges and solved many complex problems.
+Hello! My name is Mohammad Ashraful Islam, and I'm a skilled web developer with experience in PHP, MySQL, and front-end development. I have been working at i2 Technologies Limited. for nearly three years now, and during my time here, I've tackled numerous challenges and solved many complex problems.
 
 I am passionate about coding and enjoy using my skills to create user-friendly websites and web applications that enhance the user experience. My expertise in PHP has allowed me to create robust and scalable solutions for our clients, while my knowledge of front-end development has helped me to craft visually appealing designs that are both functional and aesthetically pleasing.
 
