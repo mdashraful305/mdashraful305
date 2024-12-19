@@ -1,26 +1,30 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
-  # run automatically every 24 hours
+  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */12 * * *"
+
+  # Allows manual triggering of the workflow
   workflow_dispatch:
-  
-  # run on every push on the main branch
+
+  # Run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate the snake contribution graph
+      - name: Generate GitHub contribution grid snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,14 +33,16 @@ jobs:
             dist/snake.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      # Ensure the `dist` directory contains the generated file
+      - name: Verify generated files
+        run: ls -l dist
+
+      # Push the generated snake graph to the `output` branch
+      - name: Push generated snake graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
