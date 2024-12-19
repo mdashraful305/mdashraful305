@@ -75,7 +75,7 @@ Hi, I'm Mohammad Ashraful Islam, a passionate web developer with nearly three ye
 <picture> 
   <source
     media="(prefers-color-scheme: light)"
-   srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake-dark.svg"
+   srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub contribution grid snake animation"
