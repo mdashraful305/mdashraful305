@@ -1,45 +1,36 @@
-name: Generate Snake Animation
+name: Snake generator
 
 on:
-  # Run automatically every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
-
-  # Allows manual triggering of the workflow
-  workflow_dispatch:
-
-  # Run on every push to the main branch
   push:
-    branches:
-      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" #  run every hour
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      # Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Generate the snake contribution graph
-      - name: Generate GitHub contribution grid snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Create snake
+        uses: Platane/snk@v3
         with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
+
+          # list of files to generate.
+          # one file per line. Each output can be customized with options as query string.
+          #
+          #  supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
           outputs: |
             dist/snake.svg
-            dist/snake.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/dark.svg?palette=github-dark            
 
-      # Ensure the `dist` directory contains the generated file
-      - name: Verify generated files
-        run: ls -l dist
-
-      # Push the generated snake graph to the `output` branch
-      - name: Push generated snake graph to output branch
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
