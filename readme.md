@@ -10,7 +10,13 @@
   
 ## More About me
  
-Hi, I'm Mohammad Ashraful Islam, a passionate web developer with nearly three years of experience at i2 Technologies Limited. I love tackling challenges, solving complex problems, and creating user-friendly web applications that enhance the user experience. Beyond work, I participate in coding challenges and competitive programming contests, which have sharpened my problem-solving skills and deepened my passion for learning and growth. I'm dedicated to continuous improvement and excited about the journey ahead in my development career!
+Hello! My name is Mohammad Ashraful Islam, and I'm a skilled backend developer with experience in PHP, MySQL, and front-end development. I have been working at  i2 Technologies Limited. for nearly five years now, and during my time here, I've tackled numerous challenges and solved many complex problems.
+
+I am passionate about coding and enjoy using my skills to create user-friendly websites and web applications that enhance the user experience. My expertise in PHP has allowed me to create robust and scalable solutions for our clients, while my knowledge of front-end development has helped me to craft visually appealing designs that are both functional and aesthetically pleasing.
+
+In addition to my work at i2 Technologies Limited, I have participated in online coding challenges and competitive programming contests. Through these experiences, I have honed my problem-solving skills and gained valuable experience developing efficient algorithms and code.
+
+Overall, I'm a dedicated and passionate developer with a strong work ethic and a desire to learn and grow in my field. I'm always up for a new challenge and am excited to see where my skills and experience take me in the future.
 
 <br/>  
 
@@ -54,25 +60,9 @@ Hi, I'm Mohammad Ashraful Islam, a passionate web developer with nearly three ye
 
 <br/>  
 
-<br/>
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=mdashraful305&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful305&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
 ## Contributions 
- 
-<picture> 
-  <source
-    media="(prefers-color-scheme: light)"
-   srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake-dark.svg"
-  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-snake.svg">
+  <img alt="dual contribution snake" src="https://raw.githubusercontent.com/mdashraful305/dual-snake/mdashraful305/github-snake.svg"  width="100%">
 </picture>
-
